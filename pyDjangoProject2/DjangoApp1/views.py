@@ -1,3 +1,3 @@
 from django.shortcuts import render
-
-# Create your views here.
+from DjangoApp1 import User
+# Create  your views here.
